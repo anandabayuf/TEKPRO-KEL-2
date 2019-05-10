@@ -16,7 +16,7 @@ public class ATMCollaboration {
      */
     public static void main(String[] args) {
         System.out.print("Hello World");
-        System.out.println("fajrina");
+        System.out.println("it's fajrina");
       
     }
     
