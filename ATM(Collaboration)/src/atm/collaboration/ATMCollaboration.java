@@ -15,7 +15,12 @@ public class ATMCollaboration {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         System.out.print("Hello Bayu");
+
+        System.out.print("Hello World");
+        System.out.print(2019);
+
     }
     
 }
